@@ -13,6 +13,7 @@ Here are things I learned along the way from working on this project.
 ## Steps & Time To Complete
 
 Description | Total Time | Explination
+-- | -- | --
 README & Git Setup | 30 mins | Format README and setup Git repos (local & remote).
 Basic File Testing | 0 mins | Testing basic Python file interactions. 
 
